@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="510.23622pt" height="595.275591pt" viewBox="0 0 510.23622 595.275591" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-12-02T12:36:36.466010</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 595.275591 
+L 510.23622 595.275591 
+L 510.23622 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 63.779528 222.799194 
+L 251.255764 222.799194 
+L 251.255764 71.433071 
+L 63.779528 71.433071 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 63.779528 73.114917 
+L 222.133987 73.114917 
+L 222.133987 77.599839 
+L 63.779528 77.599839 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 63.779528 89.933375 
+L 176.972842 89.933375 
+L 176.972842 94.418297 
+L 63.779528 94.418297 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 63.779528 106.751833 
+L 180.417485 106.751833 
+L 180.417485 111.236755 
+L 63.779528 111.236755 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 63.779528 123.570291 
+L 207.450661 123.570291 
+L 207.450661 128.055213 
+L 63.779528 128.055213 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 63.779528 140.388749 
+L 190.992809 140.388749 
+L 190.992809 144.873671 
+L 63.779528 144.873671 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 63.779528 157.207207 
+L 191.143638 157.207207 
+L 191.143638 161.69213 
+L 63.779528 161.69213 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 63.779528 174.025666 
+L 213.768641 174.025666 
+L 213.768641 178.510588 
+L 63.779528 178.510588 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 63.779528 190.844124 
+L 186.17485 190.844124 
+L 186.17485 195.329046 
+L 63.779528 195.329046 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 63.779528 207.662582 
+L 181.841211 207.662582 
+L 181.841211 212.147504 
+L 63.779528 212.147504 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #080d39"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 63.779528 77.599839 
+L 235.650621 77.599839 
+L 235.650621 82.084761 
+L 63.779528 82.084761 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 63.779528 94.418297 
+L 199.472795 94.418297 
+L 199.472795 98.903219 
+L 63.779528 98.903219 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 63.779528 111.236755 
+L 181.497126 111.236755 
+L 181.497126 115.721677 
+L 63.779528 115.721677 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 63.779528 128.055213 
+L 218.757446 128.055213 
+L 218.757446 132.540136 
+L 63.779528 132.540136 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 63.779528 144.873671 
+L 195.603242 144.873671 
+L 195.603242 149.358594 
+L 63.779528 149.358594 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 63.779528 161.69213 
+L 203.265863 161.69213 
+L 203.265863 166.177052 
+L 63.779528 166.177052 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 63.779528 178.510588 
+L 226.412977 178.510588 
+L 226.412977 182.99551 
+L 63.779528 182.99551 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 63.779528 195.329046 
+L 192.427084 195.329046 
+L 192.427084 199.813968 
+L 63.779528 199.813968 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 63.779528 212.147504 
+L 198.009704 212.147504 
+L 198.009704 216.632426 
+L 63.779528 216.632426 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #6b6e88"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 63.779528 82.084761 
+L 242.328324 82.084761 
+L 242.328324 86.569683 
+L 63.779528 86.569683 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 63.779528 98.903219 
+L 219.76978 98.903219 
+L 219.76978 103.388141 
+L 63.779528 103.388141 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 63.779528 115.721677 
+L 234.108509 115.721677 
+L 234.108509 120.2066 
+L 63.779528 120.2066 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 63.779528 132.540136 
+L 214.890735 132.540136 
+L 214.890735 137.025058 
+L 63.779528 137.025058 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 63.779528 149.358594 
+L 233.586263 149.358594 
+L 233.586263 153.843516 
+L 63.779528 153.843516 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 63.779528 166.177052 
+L 209.319192 166.177052 
+L 209.319192 170.661974 
+L 63.779528 170.661974 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 63.779528 182.99551 
+L 229.152151 182.99551 
+L 229.152151 187.480432 
+L 63.779528 187.480432 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 63.779528 199.813968 
+L 181.06188 199.813968 
+L 181.06188 204.29889 
+L 63.779528 204.29889 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 63.779528 216.632426 
+L 217.550342 216.632426 
+L 217.550342 221.117348 
+L 63.779528 221.117348 
+z
+" clip-path="url(#pe924e8dbab)" style="fill: #ceced7"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m66321baf69" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m66321baf69" x="63.779528" y="222.799194" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0.0 -->
+      <g transform="translate(60.023278 233.519507) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-30" d="M 2131 -102 
+Q 1709 -102 1376 67 
+Q 1043 237 812 547 
+Q 582 858 460 1299 
+Q 339 1741 339 2285 
+Q 339 2835 467 3276 
+Q 595 3718 828 4025 
+Q 1062 4333 1395 4499 
+Q 1728 4666 2138 4666 
+Q 2547 4666 2880 4502 
+Q 3213 4339 3446 4032 
+Q 3680 3725 3805 3283 
+Q 3930 2842 3930 2285 
+Q 3930 1741 3811 1299 
+Q 3693 858 3462 547 
+Q 3232 237 2896 67 
+Q 2560 -102 2131 -102 
+z
+M 2138 422 
+Q 2733 422 3011 921 
+Q 3290 1421 3290 2285 
+Q 3290 2707 3219 3052 
+Q 3149 3398 3005 3641 
+Q 2861 3885 2643 4016 
+Q 2426 4147 2138 4147 
+Q 1843 4147 1625 4016 
+Q 1408 3885 1264 3645 
+Q 1120 3405 1046 3059 
+Q 973 2714 973 2285 
+Q 973 1862 1046 1516 
+Q 1120 1171 1264 928 
+Q 1408 685 1625 553 
+Q 1843 422 2138 422 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-2e" d="M 346 704 
+L 1037 704 
+L 1037 0 
+L 346 0 
+L 346 704 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-30"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-2e" x="64.324997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-30" x="83.549988"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m66321baf69" x="105.65651" y="222.799194" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 0.2 -->
+      <g transform="translate(102.013541 233.519507) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-32" d="M 256 0 
+Q 275 416 406 717 
+Q 538 1018 742 1254 
+Q 1005 1542 1337 1753 
+Q 1670 1965 1997 2163 
+Q 2208 2285 2377 2397 
+Q 2547 2509 2662 2630 
+Q 2778 2752 2838 2899 
+Q 2899 3046 2899 3245 
+Q 2899 3648 2646 3897 
+Q 2394 4147 1952 4147 
+Q 1504 4147 1254 3866 
+Q 1120 3725 1059 3529 
+Q 998 3334 998 3046 
+L 365 3046 
+Q 365 3430 473 3712 
+Q 582 3994 787 4205 
+Q 998 4429 1312 4544 
+Q 1626 4659 2003 4659 
+Q 2355 4659 2636 4553 
+Q 2918 4448 3120 4259 
+Q 3322 4070 3430 3814 
+Q 3539 3558 3539 3258 
+Q 3539 2938 3440 2717 
+Q 3341 2496 3174 2323 
+Q 3008 2150 2781 2012 
+Q 2554 1875 2298 1728 
+Q 2118 1619 1923 1500 
+Q 1728 1382 1549 1244 
+Q 1370 1107 1229 953 
+Q 1088 800 1024 621 
+L 1011 570 
+L 3456 570 
+L 3456 0 
+L 256 0 
+L 256 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-30"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-2e" x="64.324997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-32" x="85.924988"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m66321baf69" x="147.533493" y="222.799194" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 0.4 -->
+      <g transform="translate(143.896774 233.519507) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-34" d="M 2477 1107 
+L 269 1107 
+L 269 1658 
+L 2573 4608 
+L 3078 4608 
+L 3078 1587 
+L 3821 1587 
+L 3821 1107 
+L 3078 1107 
+L 3078 0 
+L 2477 0 
+L 2477 1107 
+z
+M 768 1562 
+Q 896 1568 1011 1574 
+Q 1114 1581 1229 1584 
+Q 1344 1587 1446 1587 
+L 2477 1587 
+L 2477 3136 
+Q 2477 3226 2480 3341 
+Q 2483 3456 2490 3565 
+Q 2496 3680 2509 3808 
+L 2496 3808 
+Q 2438 3706 2368 3597 
+Q 2310 3507 2240 3404 
+Q 2170 3302 2099 3213 
+L 1254 2138 
+Q 1184 2048 1097 1955 
+Q 1011 1862 941 1773 
+Q 851 1670 768 1574 
+L 768 1562 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-30"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-2e" x="64.324997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-34" x="83.174988"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m66321baf69" x="189.410475" y="222.799194" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 0.6 -->
+      <g transform="translate(185.76946 233.519507) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-36" d="M 2138 -102 
+Q 1754 -102 1466 13 
+Q 1178 128 973 333 
+Q 614 659 476 1136 
+Q 339 1613 339 2304 
+Q 339 2842 454 3277 
+Q 570 3712 794 4026 
+Q 1018 4333 1350 4499 
+Q 1683 4666 2125 4666 
+Q 2470 4666 2726 4563 
+Q 2982 4461 3161 4291 
+Q 3341 4122 3443 3914 
+Q 3546 3706 3578 3494 
+L 2970 3494 
+Q 2950 3610 2892 3728 
+Q 2835 3846 2729 3942 
+Q 2624 4038 2477 4099 
+Q 2330 4160 2138 4160 
+Q 1818 4160 1590 4032 
+Q 1363 3904 1219 3664 
+Q 1075 3424 1004 3075 
+Q 934 2726 922 2285 
+L 934 2285 
+Q 1158 2662 1465 2832 
+Q 1773 3002 2189 3002 
+Q 2502 3002 2777 2880 
+Q 3053 2758 3257 2550 
+Q 3462 2342 3584 2064 
+Q 3706 1786 3706 1466 
+Q 3706 1139 3584 854 
+Q 3462 570 3251 358 
+Q 3040 147 2752 22 
+Q 2464 -102 2138 -102 
+z
+M 2125 390 
+Q 2342 390 2524 467 
+Q 2707 544 2841 681 
+Q 2976 819 3053 1014 
+Q 3130 1210 3130 1446 
+Q 3130 1683 3053 1875 
+Q 2976 2067 2838 2208 
+Q 2701 2349 2512 2425 
+Q 2323 2502 2106 2502 
+Q 1626 2502 1331 2217 
+Q 1037 1933 1037 1453 
+Q 1037 1216 1120 1021 
+Q 1203 826 1350 685 
+Q 1498 544 1696 467 
+Q 1894 390 2125 390 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-30"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-2e" x="64.324997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-36" x="83.049988"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m66321baf69" x="231.287458" y="222.799194" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0.8 -->
+      <g transform="translate(227.569489 233.519507) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-38" d="M 2029 -102 
+Q 1702 -102 1385 -25 
+Q 1069 51 819 220 
+Q 570 390 416 659 
+Q 262 928 262 1306 
+Q 262 1549 336 1741 
+Q 410 1933 544 2080 
+Q 678 2227 860 2329 
+Q 1043 2432 1261 2490 
+L 1261 2509 
+Q 890 2618 691 2867 
+Q 493 3117 493 3469 
+Q 493 3744 608 3965 
+Q 723 4186 928 4342 
+Q 1133 4499 1411 4585 
+Q 1690 4672 2010 4672 
+Q 2336 4672 2614 4589 
+Q 2893 4506 3097 4349 
+Q 3302 4192 3417 3971 
+Q 3533 3750 3533 3475 
+Q 3533 3123 3334 2873 
+Q 3136 2624 2771 2509 
+L 2771 2490 
+Q 3213 2381 3481 2073 
+Q 3750 1766 3750 1306 
+Q 3750 922 3603 656 
+Q 3456 390 3216 220 
+Q 2976 51 2665 -25 
+Q 2355 -102 2029 -102 
+z
+M 2010 2720 
+Q 2438 2720 2684 2912 
+Q 2931 3104 2931 3450 
+Q 2931 3795 2684 3984 
+Q 2438 4173 2010 4173 
+Q 1581 4173 1334 3984 
+Q 1088 3795 1088 3450 
+Q 1088 3104 1334 2912 
+Q 1581 2720 2010 2720 
+z
+M 2029 403 
+Q 2547 403 2841 643 
+Q 3136 883 3136 1312 
+Q 3136 1747 2838 2000 
+Q 2541 2253 2010 2253 
+Q 1485 2253 1190 2000 
+Q 896 1747 896 1312 
+Q 896 877 1193 640 
+Q 1491 403 2029 403 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-30"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-2e" x="64.324997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-38" x="85.924988"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="m1909701f99" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="79.8423" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- AOPEP_vs_REST -->
+      <g transform="translate(16.985778 81.719644) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-41" d="M 1862 4762 
+L 2592 4762 
+L 4346 0 
+L 3629 0 
+L 3155 1389 
+L 1280 1389 
+L 794 0 
+L 122 0 
+L 1862 4762 
+z
+M 1459 1901 
+L 2982 1901 
+L 2528 3232 
+Q 2464 3405 2413 3584 
+Q 2362 3763 2323 3910 
+Q 2278 4077 2240 4243 
+L 2221 4243 
+Q 2176 4077 2131 3904 
+Q 2086 3757 2035 3577 
+Q 1984 3398 1926 3232 
+L 1459 1901 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-4f" d="M 2643 -102 
+Q 2106 -102 1674 86 
+Q 1242 275 938 608 
+Q 634 941 474 1395 
+Q 314 1850 314 2381 
+Q 314 2918 474 3372 
+Q 634 3827 938 4156 
+Q 1242 4486 1674 4675 
+Q 2106 4864 2643 4864 
+Q 3181 4864 3613 4675 
+Q 4045 4486 4349 4156 
+Q 4653 3827 4816 3372 
+Q 4979 2918 4979 2381 
+Q 4979 1850 4816 1395 
+Q 4653 941 4349 608 
+Q 4045 275 3613 86 
+Q 3181 -102 2643 -102 
+z
+M 2643 474 
+Q 3046 474 3356 618 
+Q 3667 762 3878 1018 
+Q 4090 1274 4195 1622 
+Q 4301 1971 4301 2381 
+Q 4301 2790 4195 3142 
+Q 4090 3494 3878 3750 
+Q 3667 4006 3356 4153 
+Q 3046 4301 2643 4301 
+Q 2240 4301 1929 4153 
+Q 1619 4006 1408 3750 
+Q 1197 3494 1088 3142 
+Q 979 2790 979 2381 
+Q 979 1971 1088 1622 
+Q 1197 1274 1408 1018 
+Q 1619 762 1929 618 
+Q 2240 474 2643 474 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-50" d="M 493 4762 
+L 2496 4762 
+Q 2880 4762 3165 4643 
+Q 3450 4525 3635 4301 
+Q 3795 4115 3884 3884 
+Q 3974 3654 3974 3366 
+Q 3974 2707 3590 2332 
+Q 3206 1958 2432 1958 
+L 1152 1958 
+L 1152 0 
+L 493 0 
+L 493 4762 
+z
+M 1152 2490 
+L 2368 2490 
+Q 2854 2490 3088 2717 
+Q 3322 2944 3322 3347 
+Q 3322 3770 3078 3981 
+Q 2835 4192 2394 4192 
+L 1152 4192 
+L 1152 2490 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-45" d="M 493 4762 
+L 3878 4762 
+L 3878 4186 
+L 1146 4186 
+L 1146 2746 
+L 3616 2746 
+L 3616 2202 
+L 1146 2202 
+L 1146 595 
+L 3949 595 
+L 3949 0 
+L 493 0 
+L 493 4762 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-5f" d="M -13 -672 
+L 2746 -672 
+L 2746 -1107 
+L -13 -1107 
+L -13 -672 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-76" d="M 32 3437 
+L 666 3437 
+L 1267 1581 
+Q 1318 1408 1376 1216 
+Q 1434 1024 1478 858 
+Q 1530 666 1581 486 
+L 1594 486 
+Q 1632 666 1683 858 
+Q 1728 1024 1782 1216 
+Q 1837 1408 1894 1581 
+L 2509 3437 
+L 3123 3437 
+L 1888 0 
+L 1229 0 
+L 32 3437 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-73" d="M 1728 -102 
+Q 1011 -102 620 208 
+Q 230 518 192 1043 
+L 794 1043 
+Q 819 858 902 730 
+Q 986 602 1110 525 
+Q 1235 448 1395 413 
+Q 1555 378 1741 378 
+Q 2150 378 2332 534 
+Q 2515 691 2515 922 
+Q 2515 1203 2294 1315 
+Q 2074 1427 1619 1517 
+Q 1370 1568 1136 1632 
+Q 902 1696 726 1805 
+Q 550 1914 444 2093 
+Q 339 2272 339 2554 
+Q 339 2995 668 3254 
+Q 998 3514 1600 3514 
+Q 2246 3514 2579 3238 
+Q 2912 2963 2970 2515 
+L 2374 2515 
+Q 2336 2784 2147 2925 
+Q 1958 3066 1587 3066 
+Q 1235 3066 1078 2925 
+Q 922 2784 922 2586 
+Q 922 2451 982 2364 
+Q 1043 2278 1161 2220 
+Q 1280 2163 1449 2124 
+Q 1619 2086 1837 2042 
+Q 2093 1990 2323 1926 
+Q 2554 1862 2730 1747 
+Q 2906 1632 3008 1443 
+Q 3110 1254 3110 954 
+Q 3110 691 3008 492 
+Q 2906 294 2723 163 
+Q 2541 32 2285 -35 
+Q 2029 -102 1728 -102 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-52" d="M 493 4762 
+L 2720 4762 
+Q 3040 4762 3302 4669 
+Q 3565 4576 3753 4403 
+Q 3942 4230 4044 3987 
+Q 4147 3744 4147 3450 
+Q 4147 3014 3948 2710 
+Q 3750 2406 3277 2259 
+L 3277 2240 
+Q 3475 2182 3609 2086 
+Q 3744 1990 3827 1852 
+Q 3910 1715 3952 1523 
+Q 3994 1331 4013 1075 
+Q 4032 794 4057 605 
+Q 4083 416 4108 297 
+Q 4134 179 4163 118 
+Q 4192 58 4230 32 
+L 4230 0 
+L 3533 0 
+Q 3494 32 3468 96 
+Q 3443 160 3424 281 
+Q 3405 403 3392 592 
+Q 3379 781 3360 1069 
+Q 3328 1574 3104 1779 
+Q 2880 1984 2413 1984 
+L 1146 1984 
+L 1146 0 
+L 493 0 
+L 493 4762 
+z
+M 1146 2509 
+L 2509 2509 
+Q 2995 2509 3235 2736 
+Q 3475 2963 3475 3354 
+Q 3475 3776 3260 3987 
+Q 3046 4198 2541 4198 
+L 1146 4198 
+L 1146 2509 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-53" d="M 2240 -96 
+Q 1741 -96 1366 32 
+Q 992 160 739 381 
+Q 486 602 352 902 
+Q 218 1203 198 1542 
+L 845 1542 
+Q 902 998 1254 713 
+Q 1606 429 2259 429 
+Q 2496 429 2697 483 
+Q 2899 538 3043 643 
+Q 3187 749 3270 909 
+Q 3354 1069 3354 1286 
+Q 3354 1517 3254 1670 
+Q 3155 1824 2972 1926 
+Q 2790 2029 2537 2099 
+Q 2285 2170 1971 2240 
+Q 1651 2304 1366 2393 
+Q 1082 2483 864 2633 
+Q 646 2784 521 3008 
+Q 397 3232 397 3578 
+Q 397 3878 518 4115 
+Q 640 4352 857 4515 
+Q 1075 4678 1379 4764 
+Q 1683 4851 2048 4851 
+Q 2490 4851 2810 4745 
+Q 3130 4640 3350 4454 
+Q 3571 4269 3692 4013 
+Q 3814 3757 3859 3450 
+L 3226 3450 
+Q 3162 3885 2861 4112 
+Q 2560 4339 2054 4339 
+Q 1581 4339 1299 4153 
+Q 1018 3968 1018 3610 
+Q 1018 3418 1110 3286 
+Q 1203 3155 1366 3065 
+Q 1530 2976 1757 2915 
+Q 1984 2854 2253 2797 
+Q 2598 2726 2915 2636 
+Q 3232 2547 3478 2384 
+Q 3725 2221 3869 1965 
+Q 4013 1709 4013 1312 
+Q 4013 973 3881 710 
+Q 3750 448 3513 269 
+Q 3277 90 2950 -3 
+Q 2624 -96 2240 -96 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-54" d="M 198 4762 
+L 3987 4762 
+L 3987 4186 
+L 2419 4186 
+L 2419 0 
+L 1760 0 
+L 1760 4186 
+L 198 4186 
+L 198 4762 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-41"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4f" x="66.174988"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-50" x="148.774979"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="213.474976"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-50" x="280.074966"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="344.774963"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="387.47496"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="436.274948"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="488.474945"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="531.174942"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="601.174927"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="666.774918"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="730.474915"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="96.660758" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- GNAL_vs_REST -->
+      <g transform="translate(20.14984 98.535758) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-47" d="M 4038 672 
+L 4019 672 
+Q 3763 282 3388 90 
+Q 3014 -102 2547 -102 
+Q 2048 -102 1638 80 
+Q 1229 262 934 589 
+Q 634 915 474 1366 
+Q 314 1818 314 2362 
+Q 314 2906 467 3363 
+Q 621 3821 922 4160 
+Q 1210 4486 1629 4672 
+Q 2048 4858 2605 4858 
+Q 3027 4858 3356 4749 
+Q 3686 4640 3929 4445 
+Q 4173 4250 4326 3978 
+Q 4480 3706 4550 3379 
+L 3872 3379 
+Q 3763 3782 3456 4038 
+Q 3149 4294 2598 4294 
+Q 2182 4294 1875 4147 
+Q 1568 4000 1369 3741 
+Q 1171 3482 1075 3126 
+Q 979 2771 979 2362 
+Q 979 1939 1097 1590 
+Q 1216 1242 1427 992 
+Q 1638 742 1932 604 
+Q 2227 467 2579 467 
+Q 2931 467 3196 579 
+Q 3462 691 3635 883 
+Q 3808 1075 3894 1328 
+Q 3981 1581 3981 1862 
+L 3981 1965 
+L 2598 1965 
+L 2598 2522 
+L 4627 2522 
+L 4627 0 
+L 4211 0 
+L 4038 672 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-4e" d="M 493 4762 
+L 1178 4762 
+L 3130 1779 
+Q 3219 1645 3312 1481 
+Q 3405 1318 3482 1171 
+Q 3571 1005 3661 832 
+L 3680 832 
+Q 3667 1011 3654 1190 
+Q 3642 1344 3638 1523 
+Q 3635 1702 3635 1850 
+L 3635 4762 
+L 4250 4762 
+L 4250 0 
+L 3571 0 
+L 1626 2982 
+Q 1536 3117 1443 3277 
+Q 1350 3437 1267 3584 
+Q 1171 3750 1082 3923 
+L 1069 3923 
+Q 1075 3744 1088 3565 
+Q 1094 3411 1100 3238 
+Q 1107 3066 1107 2918 
+L 1107 0 
+L 493 0 
+L 493 4762 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-4c" d="M 493 4762 
+L 1146 4762 
+L 1146 595 
+L 3610 595 
+L 3610 0 
+L 493 0 
+L 493 4762 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-47"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4e" x="78.099991"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-41" x="152.199982"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4c" x="221.999969"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="281.499954"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="324.199951"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="372.999939"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="425.199936"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="467.899933"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="537.899918"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="603.499908"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="667.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="113.479216" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- KMT2B_vs_REST -->
+      <g transform="translate(16.67484 115.351482) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-4b" d="M 493 4762 
+L 1146 4762 
+L 1146 3290 
+Q 1146 3046 1139 2816 
+Q 1133 2586 1120 2413 
+L 3418 4768 
+L 4237 4768 
+L 2323 2854 
+L 4390 0 
+L 3629 0 
+L 1869 2432 
+L 1146 1722 
+L 1146 0 
+L 493 0 
+L 493 4762 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-4d" d="M 493 4762 
+L 1338 4762 
+L 2330 2176 
+Q 2400 1978 2486 1722 
+Q 2573 1466 2643 1235 
+Q 2726 966 2810 685 
+L 2822 685 
+Q 2912 966 2995 1235 
+Q 3066 1466 3152 1722 
+Q 3238 1978 3309 2176 
+L 4282 4762 
+L 5152 4762 
+L 5152 0 
+L 4525 0 
+L 4525 2880 
+Q 4525 3040 4528 3248 
+Q 4531 3456 4544 3648 
+Q 4550 3866 4563 4102 
+L 4550 4102 
+L 4435 3699 
+Q 4384 3533 4326 3344 
+Q 4269 3155 4218 3014 
+L 3059 0 
+L 2547 0 
+L 1389 3014 
+Q 1338 3155 1280 3344 
+Q 1222 3533 1171 3699 
+L 1056 4102 
+L 1043 4102 
+Q 1050 3866 1062 3648 
+Q 1069 3456 1075 3248 
+Q 1082 3040 1082 2880 
+L 1082 0 
+L 493 0 
+L 493 4762 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-42" d="M 493 4762 
+L 2541 4762 
+Q 3277 4762 3680 4358 
+Q 3827 4205 3913 4000 
+Q 4000 3795 4000 3533 
+Q 4000 3142 3789 2892 
+Q 3578 2643 3194 2534 
+L 3194 2515 
+Q 3411 2464 3593 2368 
+Q 3776 2272 3910 2128 
+Q 4045 1984 4118 1795 
+Q 4192 1606 4192 1370 
+Q 4192 1082 4096 848 
+Q 4000 614 3827 442 
+Q 3622 230 3321 115 
+Q 3021 0 2637 0 
+L 493 0 
+L 493 4762 
+z
+M 2451 2733 
+Q 2874 2733 3107 2928 
+Q 3341 3123 3341 3488 
+Q 3341 3827 3126 4012 
+Q 2912 4198 2528 4198 
+L 1146 4198 
+L 1146 2733 
+L 2451 2733 
+z
+M 2598 576 
+Q 3078 576 3315 813 
+Q 3526 1011 3526 1350 
+Q 3526 1779 3254 1990 
+Q 2982 2202 2560 2202 
+L 1146 2202 
+L 1146 576 
+L 2598 576 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-4b"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4d" x="68.599991"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="156.699982"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-32" x="222.099976"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-42" x="281.899963"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="350.999954"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="393.699951"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="442.499939"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="494.699936"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="537.399933"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="607.399918"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="672.999908"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="736.699905"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="130.297674" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- PANK2_vs_REST -->
+      <g transform="translate(17.64984 132.16994) scale(0.05 -0.05)">
+       <use xlink:href="#NeueHaasGroteskTextPro-50"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-41" x="59.199997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4e" x="128.999985"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4b" x="203.099976"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-32" x="271.699966"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="331.499954"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="374.199951"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="422.999939"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="475.199936"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="517.899933"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="587.899918"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="653.499908"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="717.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="147.116133" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- PLA2G6_vs_REST -->
+      <g transform="translate(14.49359 148.991133) scale(0.05 -0.05)">
+       <use xlink:href="#NeueHaasGroteskTextPro-50"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4c" x="64.699997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-41" x="124.324982"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-32" x="194.124969"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-47" x="253.924957"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-36" x="332.024948"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="394.624939"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="437.324936"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="486.124924"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="538.324921"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="581.024918"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="651.024902"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="716.624893"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="780.32489"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="163.934591" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- SGCE_vs_REST -->
+      <g transform="translate(19.84984 165.811934) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-43" d="M 2554 -96 
+Q 2042 -96 1629 89 
+Q 1216 275 925 604 
+Q 634 934 474 1388 
+Q 314 1843 314 2381 
+Q 314 2906 467 3360 
+Q 621 3814 912 4147 
+Q 1203 4480 1622 4672 
+Q 2042 4864 2573 4864 
+Q 2995 4864 3324 4752 
+Q 3654 4640 3898 4442 
+Q 4154 4237 4304 3952 
+Q 4454 3667 4506 3322 
+L 3853 3322 
+Q 3770 3763 3440 4028 
+Q 3110 4294 2560 4294 
+Q 2182 4294 1888 4150 
+Q 1594 4006 1392 3750 
+Q 1190 3494 1084 3142 
+Q 979 2790 979 2381 
+Q 979 1952 1091 1600 
+Q 1203 1248 1411 998 
+Q 1619 749 1913 611 
+Q 2208 474 2566 474 
+Q 2893 474 3133 576 
+Q 3373 678 3536 851 
+Q 3699 1024 3792 1251 
+Q 3885 1478 3904 1734 
+L 4557 1734 
+Q 4557 1555 4515 1372 
+Q 4474 1190 4397 1017 
+Q 4320 845 4217 688 
+Q 4115 531 3987 410 
+Q 3482 -96 2554 -96 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-53"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-47" x="67.199997"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-43" x="145.299988"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="220.899979"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="287.499969"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="330.199966"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="378.999954"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="431.199951"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="473.899948"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="543.899933"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="609.499924"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="673.199921"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="180.753049" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- THAP1_vs_REST -->
+      <g transform="translate(18.54359 182.625315) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-48" d="M 493 4762 
+L 1146 4762 
+L 1146 2758 
+L 3603 2758 
+L 3603 4762 
+L 4262 4762 
+L 4262 0 
+L 3603 0 
+L 3603 2227 
+L 1146 2227 
+L 1146 0 
+L 493 0 
+L 493 4762 
+z
+" transform="scale(0.015625)"/>
+        <path id="NeueHaasGroteskTextPro-31" d="M 1331 3283 
+L 275 3283 
+L 275 3693 
+Q 493 3699 694 3744 
+Q 896 3789 1059 3894 
+Q 1222 4000 1331 4169 
+Q 1440 4339 1472 4589 
+L 1952 4589 
+L 1952 0 
+L 1331 0 
+L 1331 3283 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-54"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-48" x="65.399994"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-41" x="139.699982"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-50" x="209.499969"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-31" x="274.199966"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="313.59996"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="356.299957"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="405.099945"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="457.299942"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="499.999939"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="569.999924"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="635.599915"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="699.299911"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="197.571507" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- TOR1A_vs_REST -->
+      <g transform="translate(18.076403 199.448851) scale(0.05 -0.05)">
+       <use xlink:href="#NeueHaasGroteskTextPro-54"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-4f" x="61.149994"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="143.749985"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-31" x="213.749969"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-41" x="253.149963"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="322.949951"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="365.649948"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="414.449936"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="466.649933"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="509.34993"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="579.349915"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="644.949905"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="708.649902"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1909701f99" x="63.779528" y="214.389965" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- VPS16_vs_REST -->
+      <g transform="translate(19.208434 216.262231) scale(0.05 -0.05)">
+       <defs>
+        <path id="NeueHaasGroteskTextPro-56" d="M 115 4762 
+L 819 4762 
+L 1862 1587 
+Q 1907 1459 1955 1283 
+Q 2003 1107 2048 947 
+Q 2099 762 2144 570 
+L 2157 570 
+Q 2202 768 2253 954 
+Q 2298 1114 2342 1286 
+Q 2387 1459 2432 1587 
+L 3462 4762 
+L 4141 4762 
+L 2477 0 
+L 1760 0 
+L 115 4762 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NeueHaasGroteskTextPro-56"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-50" x="66.399994"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="131.099991"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-31" x="198.299988"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-36" x="237.699982"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="300.299973"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-76" x="342.999969"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-73" x="391.799957"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-5f" x="443.999954"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-52" x="486.699951"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-45" x="556.699936"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-53" x="622.299927"/>
+       <use xlink:href="#NeueHaasGroteskTextPro-54" x="685.999924"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_15">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_41">
+    <path clip-path="url(#pe924e8dbab)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe924e8dbab">
+   <rect x="63.779528" y="71.433071" width="187.476237" height="151.366123"/>
+  </clipPath>
+ </defs>
+</svg>
