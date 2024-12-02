@@ -18,7 +18,7 @@ By sharing this repository, we aim to support reproducibility, foster collaborat
 ## **Contents**
 
 1. **Data Processing**:
-   - For the spiking feature extraction toolbox please visit:  [Spike Feature Generator Toolbox Matlab Library](https://github.com/ahmetofficial/Spike-Feature-Generator)
+   - For the spiking feature extraction toolbox please visit:  [Spike Feature Generator Matlab Toolbox](https://github.com/ahmetofficial/Spike-Feature-Generator)
 
 2. **Statistical Analyses**:
    - Tools for comparing neural features among genetic subgroups.
